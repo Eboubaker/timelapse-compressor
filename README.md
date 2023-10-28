@@ -1,0 +1,3 @@
+### Work in progress...
+Gzip,LZ4 and other compression algorithms can't compress timelapse images. you nearly get no compression at all when you for example compress raw +2000 png timelapse images that are 50GB in size.
+using this tool you can get up to 90% compression of the timelapse images.
